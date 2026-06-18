@@ -10,20 +10,24 @@
 ## 📱 安卓 Android（APK）
 
 - 线路 1：https://dl.roxi.cc/roxi-latest.apk
-- 线路 2：https://dl.roxijet.cloud/roxi-latest.apk
+- 线路 2：https://dl.roxi123.us/roxi-latest.apk
 - Telegram 频道（含安装包本体）：https://t.me/Roxifree
 
 安装：下载后点开安装；若提示「未知来源」，在系统设置里允许本次安装即可。
 
 ## 💻 Windows
 
-- 安装版（推荐）：https://dl.roxi.cc/roxi-latest.exe ｜ 备用 https://dl.roxijet.cloud/roxi-latest.exe
+- 安装版（推荐）：https://dl.roxi.cc/roxi-latest.exe ｜ 备用 https://dl.roxi123.us/roxi-latest.exe
 - 免安装 ZIP：https://dl.roxi.cc/roxi-latest.zip
 - 首次打开若有 SmartScreen 提示，点「更多信息 → 仍要运行」。
 
 ## 🍎 macOS
 
-- https://dl.roxi.cc/roxi-latest.dmg ｜ 备用 https://dl.roxijet.cloud/roxi-latest.dmg
+打开「终端」(Terminal),粘贴运行(和官网一致,自动下载安装):
+
+```bash
+curl -fsSL https://roxi.cc/mac | bash
+```
 
 ## 🍏 iOS
 
